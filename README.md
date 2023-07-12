@@ -20,14 +20,9 @@ const grandeOtos = {
     languages: [es_MX, en_US],
     code: [JavaScript, TypeScript, AL, Python, php, Java, C++, C #],
     databases: [MySQL, MariaDB, Microsoft SQL Server, MongoDB],
-    frameworksAndLibraries: [NodeJS, ExpressJS, NestJS, Laravel, VueJS,
-        Quasar, Bootstrap, JQuery, SaaS, Conda
-    ],
+    frameworksAndLibraries: [NodeJS, ExpressJS, NestJS, Laravel, VueJS, Quasar, Bootstrap, JQuery, SaaS, Conda ],
     tools: [Git, GitHub, Postman, Azure DevOps, AWS, Heroku],
-    technicalSkills: [Object Oriented Programming, RESTful APIs,
-        Data Structures, Algorithms, Design Patterns,
-        Agile Methodologies, Scrum
-    ],
+    technicalSkills: [Object Oriented Programming, RESTful APIs, Databases, Agile Methodologies, Scrum ],
     softSkills: [Teamwork, Adaptability, Problem Solving, Creativity, Leadership],
     hobbies: [Video Games, Music, YouTube, Swimming],
     funFact: "I can't code without music"
