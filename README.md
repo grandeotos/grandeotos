@@ -1,8 +1,8 @@
 # Juan Luis Soto Martínez (Otos) 👋
 
-- Jr. Backend Developer ☝️🤓
-- I ❤️ Back-End Development 🖥️
-- Currently working on [**ARTEXA MEXICO**](https://artexa.com/)
+- Integration Specialist — Backend & Enterprise Integrations ☝️🤓
+- I ❤️ Back-End Development & ERP Integrations 🖥️
+- Currently at [**ARTEXA MEXICO**](https://artexa.com/)
 - I love tacos 🇲🇽
 
 ## Contact me
@@ -14,7 +14,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grandeotos)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/grandeotos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/grandeotos)
-[![Website](<https://img.shields.io/badge/Website%20(WIP)-000000?style=for-the-badge&logo=microsoft-edge&logoColor=white>)](https://grandeotos.github.io/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grandeotos.com/)
+[![Resume](https://img.shields.io/badge/Resume-CV-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://grandeotos.com/cv/juan-luis-soto-cv-en.pdf)
 
 </div>
 
@@ -24,26 +25,25 @@
 const grandeOtos = {
     name: "Juan Luis Soto Martínez",
     pronouns: "He" | "Him",
-    fieldsOfInterest: [Back - End Development, Web Development, Cloud Computing, Databases],
-    location: "Xochitepec, Morelos, México",
+    fieldsOfInterest: [Back-End Development, Enterprise Integrations, Cloud Computing, Databases],
+    location: "Monterrey, Nuevo León, México",
     education: {
         university: "Tecnológico de Monterrey - Campus Cuernavaca",
-        degree: "BS in Computer Science And Technology",
-        location: "Monterrey, Nuevo León, México".
-        isRemote: true,
-        year: "AUG 2019 - JUN 2023",
+        degree: "BS in Computer Science and Technology",
+        year: "AUG 2019 - 2024",
     },
     currentJob: {
         company: "ARTEXA MEXICO",
-        position: "Jr. Backend Developer",
-        date: "DEC 2022 - PRESENT",
+        position: "Integration Specialist",
+        date: "JUL 2026 - PRESENT",
+        previous: "Senior Software Developer (JUL 2024 - JUN 2026)",
     },
     languages: [es_MX, en_US],
-    code: [JavaScript, TypeScript, AL, Python, php, Java, C++, C #],
-    databases: [MySQL, MariaDB, Microsoft SQL Server, MongoDB],
-    frameworksAndLibraries: [NodeJS, ExpressJS, NestJS, Laravel, VueJS, Quasar, Bootstrap, JQuery, SaaS, Conda],
-    tools: [Git, GitHub, Postman, Azure DevOps, AWS, Heroku],
-    technicalSkills: [Object Oriented Programming, RESTful APIs, Databases, Agile Methodologies, Scrum],
+    code: [TypeScript, JavaScript, AL, Python, PHP, Java, C++, C#],
+    databases: [Microsoft SQL Server, MySQL, MariaDB, MongoDB],
+    frameworksAndLibraries: [FastAPI, NodeJS, NestJS, ExpressJS, Laravel, VueJS, Quasar],
+    tools: [Git, GitHub, Postman, Azure DevOps, Docker, Linux],
+    technicalSkills: [Object Oriented Programming, RESTful APIs, Enterprise Integrations, Databases, Agile Methodologies, Scrum],
     softSkills: [Teamwork, Adaptability, Problem Solving, Creativity, Leadership],
     hobbies: [Video Games, Music, YouTube, Swimming],
     funFact: "I can't code without music"
@@ -88,6 +88,7 @@ const grandeOtos = {
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWToken](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -95,7 +96,7 @@ const grandeOtos = {
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS-FF6699?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-FF6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![EsLint](https://img.shields.io/badge/EsLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
@@ -117,6 +118,7 @@ const grandeOtos = {
 
 <div align="center">
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -143,6 +145,8 @@ const grandeOtos = {
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-FF8C00?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)
 ![PoEdit](https://img.shields.io/badge/PoEdit-4B57A6?style=for-the-badge&logo=poedit&logoColor=white)
@@ -159,15 +163,4 @@ const grandeOtos = {
 
 <!--
 **grandeotos/grandeotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
