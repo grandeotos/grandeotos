@@ -35,8 +35,13 @@ const grandeOtos = {
     currentJob: {
         company: "ARTEXA MEXICO",
         position: "Integration Specialist",
-        date: "JUL 2026 - PRESENT",
-        previous: "Senior Software Developer (JUL 2024 - JUN 2026)",
+        atCompany: "DEC 2022 - PRESENT",
+        progression: [
+            "Software Developer Intern (DEC 2022 - JUN 2023)",
+            "Junior Software Developer (JUN 2023 - JUL 2024)",
+            "Senior Software Developer (JUL 2024 - JUN 2026)",
+            "Integration Specialist (JUL 2026 - PRESENT)",
+        ],
     },
     languages: [es_MX, en_US],
     code: [TypeScript, JavaScript, AL, Python, PHP, Java, C++, C#],
@@ -54,10 +59,14 @@ const grandeOtos = {
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grandeotos&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grandeotos&show_icons=true&theme=dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grandeotos&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grandeotos&theme=dark)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grandeotos&theme=dark)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=grandeotos&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grandeotos&theme=darkhub&column=7)](https://github.com/grandeotos)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=grandeotos&theme=dark&hide_border=true)](https://github.com/grandeotos)
+
+[![Trophies](https://github-trophies.vercel.app/?username=grandeotos&theme=darkhub&column=7&margin-w=15&margin-h=15)](https://github.com/grandeotos)
 
 </div>
 
